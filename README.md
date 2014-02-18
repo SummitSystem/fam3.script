@@ -24,13 +24,11 @@ $ fam3read.sh  IP-Address  DeviceName  [Num]
 
 ```
 $ ./fam3read.sh 192.168.0.57 D1
-
 9999 
 ```  
 
 ```
 $ ./fam3read.sh 192.168.0.57 d1 10
-
 99 2 3 4 5 6 7 8 9 10 
 ```  
 
